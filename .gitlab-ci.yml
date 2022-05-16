@@ -6,7 +6,7 @@ stages:
   - deploy
 
 variables:
-  PROJECT_NAME: hyperf
+  PROJECT_NAME: rbac_api
   REGISTRY_URL: registry-docker.org
   GIT_SUBMODULE_STRATEGY: recursive
 
